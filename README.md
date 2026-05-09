@@ -32,11 +32,8 @@ The original source code was lost after system reset/uninstall, but the APK buil
 </p>
 
 <p align="center">
-  <img src="screenshots/4.jpeg" width="250"/>
   <img src="screenshots/5.jpeg" width="250"/>
   <img src="screenshots/6.jpeg" width="250"/>
-</p>
-
-<p align="center">
   <img src="screenshots/7.jpeg" width="250"/>
 </p>
+
