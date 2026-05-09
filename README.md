@@ -23,10 +23,20 @@ The original source code was lost after system reset/uninstall, but the APK buil
 
 ## Screenshots
 
-![Home](screenshots/1.jpeg)
-![Home](screenshots/2.jpeg)
-![Arithmetic](screenshots/3.jpeg)
-![Scientific](screenshots/4.jpeg)
-![Age](screenshots/5.jpeg)
-![Binary](screenshots/6.jpeg)
-![Loan](screenshots/7.jpeg)
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/1.jpeg" width="250"/>
+  <img src="screenshots/2.jpeg" width="250"/>
+  <img src="screenshots/3.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/4.jpeg" width="250"/>
+  <img src="screenshots/5.jpeg" width="250"/>
+  <img src="screenshots/6.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/7.jpeg" width="250"/>
+</p>
